@@ -1,0 +1,24 @@
+.title{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 5px solid #2364AA;
+    color: #22162B;
+}
+
+.input-file{
+    padding: 20px;
+}
+
+.result {
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.mybutton {
+    margin-top: 20px;
+}
+
+body {
+    background-color: white;
+    color: #22162B;
+}
